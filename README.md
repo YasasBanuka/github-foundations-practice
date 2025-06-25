@@ -1,2 +1,2 @@
-# github-foundations-practice
+# Fixed Header
 Practice GitHub collaboration features
